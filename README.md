@@ -12,7 +12,7 @@ I am a 3rd year computer engineering student at Marmara University. I am passion
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yusufyildirim1/)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=yusufyil)
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufyil&show_icons=true&theme=radical)](https://github.com/yusufyil/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyil&layout=compact)](https://github.com/yusufyil/github-readme-stats)
+![Profile views](https://komarev.com/ghpvc/?username=yusufyil)
 
